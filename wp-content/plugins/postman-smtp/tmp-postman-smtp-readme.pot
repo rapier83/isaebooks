@@ -1,0 +1,1490 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Postman SMTP Mailer/Email Log"
+msgstr ""
+
+#. Short description.
+msgid "Take control of your Outgoing Email with the most modern, friendly and #1 rated SMTP Mailer for WordPress!"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Dashboard showing both the Postman widget and At a Glance widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Main Settings screen - shows Main Menu and current status (new installation)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Setup Wizard (step 1) - Import data from other plugins"
+msgstr ""
+
+#. Screenshot description.
+msgid "Setup Wizard (step 4) - Connectivity Test"
+msgstr ""
+
+#. Screenshot description.
+msgid "Manual Configuration - Account Settings: Password Authentication"
+msgstr ""
+
+#. Screenshot description.
+msgid "Manual Configuration - Account Settings: OAuth 2.0 Authentication"
+msgstr ""
+
+#. Screenshot description.
+msgid "Manual Configuration - Message Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Manual Configuration - Advanced Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Test Email utility screen - Oops! Wrong password"
+msgstr ""
+
+#. Screenshot description.
+msgid "Emai Log screen"
+msgstr ""
+
+#. Screenshot description.
+msgid "Connectivity Test utility screen"
+msgstr ""
+
+#. Screenshot description.
+msgid "Diagnostic Information screen"
+msgstr ""
+
+#. Found in description header.
+msgid "Standard Features"
+msgstr ""
+
+#. Found in description header.
+msgid "OAuth 2.0 Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Known Compatibilities"
+msgstr ""
+
+#. Found in description header.
+msgid "Requirements"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy-to-use, powerful Setup Wizard for perfect configuration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Log all email including message content and server errors"
+msgstr ""
+
+#. Found in description list item.
+msgid "Commercial-grade Connectivity Tester to diagnose server issues"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports <a href=\"https://tools.ietf.org/html/rfc6530\">International alphabets</a>, HTML Mail and MultiPart/Alternative"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports forced recipients (cc, bcc, to) and <a href=\"http://mandrill.com\">Mandrill</a> X-headers"
+msgstr ""
+
+#. Found in description list item.
+msgid "SASL Support: Plain/Login/CRAM-MD5/XOAUTH2 authentication"
+msgstr ""
+
+#. Found in description list item.
+msgid "Security Support: SMTPS and STARTTLS (SSL/TLS)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Gmail: By combining OAuth2 and the Gmail API over the HTTPS port, Postman can succeed where other plugins fail"
+msgstr ""
+
+#. Found in description list item.
+msgid "Fire-and-forget delivery continues even if the password changes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports the proprietary implementations of Gmail, Hotmail and Yahoo"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/woocommerce/\">Woocommerce</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.gravityforms.com\">Gravity Forms</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/si-contact-form/\">Fast Secure Contact Form</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/visual-form-builder/\">Visual Forms Builder</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/contact-form-builder/\">Contact Form Builder</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://revaxarts-themes.com/?t=mymail\">MyMail Newsletter</a> by revaxarts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/sendpress/\">SendPress Newsletters</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/wp-html-mail/\">WP HTML Mail</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/email-templates/\">Email Templates</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress 3.9 and PHP 5.2 with SPL and iconv"
+msgstr ""
+
+#. Found in description list item.
+msgid "Connectivity to, and authentication credentials with, any email service provider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Memory: 750KiB per process at idle"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom email domains require an SPF and DKIM record for Blackhole-free/Spam-free delivery"
+msgstr ""
+
+#. Found in description list item.
+msgid "OAuth 2.0 features require a free <a href=\"https://developers.google.com/accounts/docs/OAuth2\">Google</a>, <a href=\"https://msdn.microsoft.com/en-us/library/cc287659.aspx\">Microsoft</a> or <a href=\"https://developer.yahoo.com/faq/#appid\">Yahoo</a> OAuth 2.0 Client ID"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Postman is a next-generation <a href=\"https://wordpress.org/plugins/search.php?q=smtp\">SMTP Mailer</a>, software that assists in the delivery of email generated by your WordPress site. Postman is the first and only plugin to support both traditional passwords and OAuth 2.0, the <a href=\"http://googleonlinesecurity.blogspot.ca/2014/04/new-security-measures-will-affect-older.html\">modern security mechanism for authentication</a>. With OAuth 2.0, there is <strong>no need</strong> to <a href=\"http://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/\">store your email passsword</a> in the WordPress database where it might be found."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "v1.7 <strong>Early Beta</strong> adds support for the Mandrill and SendGrid APIs. Send mail to these services even if your host has blocked the standard SMTP ports. <a href=\"https://downloads.wordpress.org/plugin/postman-smtp.zip\">Get it now</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <strong>Connectivity Test</strong> and intelligent <strong>Setup Wizard</strong> scan your SMTP server to detect firewall blocks and eliminate configuration mistakes. The built-in <strong>Email Log</strong> is an invaluable resource for diagnosing problems with emails that aren't working. Even hosts that block the standard SMTP ports, like GoDaddy or Bluehost, can't stop your Gmail as <strong>Postman will deliver via HTTPS</strong> if it can't use SMTP."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Postman is <em>not</em> another WP Mail SMTP clone like WP Bank or Easy SMTP. It replaces the default WordPress SMTP library, PHPMailer, with the heavy-duty Zend_Mail. Never <a href=\"http://www.jvfconsulting.com/blog/php-mail-function-vs-smtp-guaranteed-delivery/\">lose an email to PHP mail()</a> again."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Postman needs <a href=\"https://translate.wordpress.org/projects/wp-plugins/postman-smtp/dev\">translators</a>! If you are a non-English speaker, please get involved!"
+msgstr ""
+
+#. Found in installation header.
+msgid "Easy install and setup! (Recommended for all users)"
+msgstr ""
+
+#. Found in installation header.
+msgid "To manually configure Password Authentication (Intermediate users only)"
+msgstr ""
+
+#. Found in installation header.
+msgid "To manually configure OAuth 2.0 Authentication (Advanced users only)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install and activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In the WordPress 'Settings' menu select 'Postman SMTP'."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Choose 'Start the Wizard' and follow the instructions."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Choose configure manually"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Transport', choose 'SMTP'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Outgoing Mail Server Hostname', enter the SMTP Server's hostname"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Outgoing Mail Server Port', enter the SMTP Server's port"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Security' choose the appropriate type (a good guess is SMTPS for port 465, STARTTLS otherwise)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Authentication', choose the authentication type (a good guess is 'Plain')"
+msgstr ""
+
+#. Found in installation list item.
+msgid "If your Authentication method is not 'None', enter your username (probably your email address) and password."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Choose the 'Message' tab."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Envelope From Address' enter your email address. This MUST be the same address you login to webmail with."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Message From Address' enter your email address. Or this can be an alias, mailing list, or group email if you wish."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Choose the Save Changes button."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Send yourself a test email. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Security' choose the appropriate type (a good guess is SMTPS for port 465, StartTLS otherwise)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In 'Authentication' choose 'OAuth 2.0'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Postman will give you a link to the Client ID maintenance page of your email service provider. Create a Client ID for your WordPress site.. <a href=\"https://wordpress.org/plugins/postman-smtp/faq/\">instructions for this are detailed in the FAQ</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Copy your generated Client ID and Client secret into the plugin's Settings page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Choose the 'Request OAuth2 Permission' link and follow the instructions."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To send email reliably, you must use the SMTP server assigned to that email. If Postman is unable to connect to the right SMTP server, you may have to ask your host to open the ports, or create a new email account managed by your host, or switch hosts!"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The Connectivity Test utility will tell you which ports are open and the actions available to you."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Postman is developed on OS X with PHP 5.5.14 and Apache 2.4.9. Postman is tested in a <a href=\"http://www.openshift.com/\">Red Hat OpenShift</a> environment with PHP 5.3.3 and Apache 2.2.15 with Gmail, Hotmail and Yahoo Mail (US). Postman is tested with <a href=\"http://mailtrap.io\">mailtrap.io</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "20,000 installations! - 2015-09-09"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translated into Greek, thank-you Michael Kotsarinis!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Diagnostic Test displays all the wp_mail-related hooks of active plugins and themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Connectivity Test against localhost host shows \"localhost\" instead of \"null\" if a man-in-the-middle attack is detected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When validating e-mail addresses, Postman will disclose which field has a validation issue in the error message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Default log entries bumped from 10 to 250"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/for-your-consideration-backup-email-notification?replies=5\">Ticket</a>] Added nasty fake input field hack to prevent browsers from autofilling username/password fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/cf7-godaddy-emails-not-delivered?replies=5\">Ticket</a>] Added a warning to the Email Log for emails that have an empty subject line"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/test-failed-but-meesage-is-sent?replies=12\">Ticket</a>] Test Email detects Ajax errors and displays them in the Status window"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/missing-image-files-of-jquery-ui-1?replies=4\">Ticket</a>] Removed the references to images in Postman's copy of jquery-ui.css causing HTTP 404"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/test-email-keeps-on-failing?replies=17\">Ticket</a>] Fixed an Ajax name collision with the plugin <a href=\"https://www.memberpress.com\">MemberPress</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/message-body-not-send?replies=15\">Ticket</a>] Some sites can not handle International (UTF-8) characters in the Test Email. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/notices-for-google-api-php-client?replies=10\">Ticket</a>] Fix for PHP Notice: Undefined offset: 1 in postman-smtp/Postman/Postman-Mail/google-api-php-client-1.1.2/autoload.php on line 22"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/test-failed-but-meesage-is-sent?replies=13\">Ticket</a>] Silenced PHP warnings in Zend_Mail from ini_set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "10,000 installations! - 2015-06-27"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "9,000 installations! - 2015-06-20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/conflict-with-bbpress-and-buddy-press-in-1622?replies=2\">Ticket</a>] Causes bbPress or Buddy Press to generate warning messages. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/fatal-error-internal-zend-error-missing-class-information?replies=2#post-7092317\">Ticket</a>] User reported error \"Fatal error: Internal Zend error - Missing class information\" - Whoops, used 'require' PostmanState.php instead of 'require_once' PostmanState.php which was causing errors. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/error-send-mymail-email-marketing?replies=5\">Ticket</a>] [<a href=\"https://wordpress.org/support/topic/how-configure-mymail-in-plugin?replies=6\">Ticket</a>] MyMail Newsletter Plugin for WordPress refuses to use wp_mail. I don't want to make this a habit, but I've integrated Postman with MyMail's proprietary delivery mechanism."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/cant-send-error-500?replies=11#post-7103035\">Ticket</a>] Found an environment where the plugin's call to new Exception was creating PHP Fatal errors. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/error-calling-post-400-invalid-to-header?replies=4\">Ticket</a>] Perform validation on all email headers before sending message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Gmail API transport now displays a transcript (or rather, a copy of the payload sent to the Gmail API) during the Send Email Test"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Gmail API transport now saves a transcript (or rather, a copy of the payload sent to the Gmail API) in the Email Log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "No longer shows the Javascript pop-up if the error is caused by the user cancelling everything (by checking JSON response.responseText for null)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Finally realized that for the last five months I've been relying on register_activation_hook to fire during plugin updates - <a href=\"https://make.wordpress.org/core/2010/10/27/plugin-activation-hooks-no-longer-fire-for-updates/\">and it doesn't</a>. Lovely. Well this change should eliminate all the \"update doesn't work!\" bugs for good."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/latest-update-conflicting-with-theme?replies=3#post-7066897\">Ticket</a>] I enable Strict mode when I code Postman to ensure it's error free and I forgot to turn it off. This was causing all plugins and themes to show their warnings. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/upgrade-to-1619-broke-contact-form?replies=2#post-7067673\">Ticket</a>] I didn't thoroughly test the Gmail API, causing \"Catchable fatal error: Argument 1 passed to PostmanGmailApiModuleTransport::getAuthenticationType() must be an instance of PostmanOptions, none given.\" Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/gmail-api-assertion-failed-and-cannot-modify-header-information?replies=4#post-7068833\">Ticket</a>] I didn't thoroughly test the Gmail API, it wasn't warning the user if the Envelope Sender Address is missing. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/password-corruption-issue?replies=1\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/password-corruption-issue?replies=4#post-7068839\">Ticket</a>] Found a problem in the Activation Handler. It was re-encoding passwords when it shouldn't have been. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "8,000 installations! Big milestone! The author of <a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a> has <a href=\"http://contactform7.com/faq/i-get-an-error-message-with-a-red-border-so-how-can-i-solve-this/\">officially endorsed Postman SMTP</a> as the SMTP plugin of choice! You can't wipe the smile from my face :D"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/subscriber-registration?replies=6\">Ticket</a>] Postman is determining the current user's admin capability incorrectly. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/using-a-google-apps-group-as-sender?replies=3\">Ticket</a>] Added an additional From field, the Envelope From Address, so users can use a different From address than the Account address (for example, to use a Google Apps' Group email address)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a uniqueness (based on site URL) to the lock filename in case this is shared hosting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Persistence-level updates now run across all subsites on a multisite installation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You know you're having a really bad day when you have to have do three releases. Fix for \"Fatal error: Call to a member function addError() on a non-object\". This happens when wp_mail is blocked by another plugin and a non-admin user accesses the site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/error-after-latest-upgrade?replies=2#post-7044181\">Ticket</a>] Fixed a bug \"Fatal error: Cannot redeclare IsNullOrEmptyString()\" I introduced in v1.6.15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Cc and Bcc addresses to Email Log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/email-errors?replies=16\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/postman-smtp-on-contact-form-7?replies=2#post-7043223\">Ticket</a>] Force a Logout of Google before launching the Developers Console so it's obvious to the user which account is being used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now using Google Developers Console Gmail Wizard URL in place of Google Developers Console URL to simplify Client ID creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/fixed-my-problem-but-broke-bbpress-notifications?replies=7#post-7038255\">Ticket</a>] Removing the BCC header in the case of the Gmail API was incorrect and causing lost recipients. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility issue (PHP Fatal Error) with the Postman Gmail API Extension"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/large-warnings-on-site?replies=1#post-7036030\">Ticket</a>] Fixed a bug (PHP Warning) I introduced in v1.6.13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "7,000 installations!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translated into Dutch, thank-you Louise"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/bad-requestinvalid_grant?replies=13#post-6991435\">Ticket</a>] Add process-locking to make sure the OAuth2 token is refreshed synchronously"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use the Zend_Mail setReturnPath option to communicate the Mail-From and Sender as the SMTP account, allowing arbitrary addresses in the From header"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/smtp-authentication-security?replies=1#post-7025445\">Ticket</a>] Added Emoji lock icons to Dashboard and Main Setting screens to indicate security"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/problem-sending-mail-with-other-users?replies=19\">Ticket</a>] Emails from the <a href=\"https://wordpress.org/plugins/email-users/\">Email Users</a> plugin were causing undeliverable errors - fixed by removing the SMTP Return-Path header that <em>Email Users</em> injects"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "6,000 installations! - 2015-05-26"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Postman now calls wp_mail when sending a test email. This marks the beginning of the \"Postman API\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Shaved admin memory use from ~6MB to ~4MB; Non-admin memory use holds at ~2MB"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now loading the Sent Email post type for all admin screens, in case other custom post type-related plugins (e.g. WordPress Importer) need it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wasn't comfortable how plugin_data was being retrieved, so reverted back to hard-coded plugin name and version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Save original wp_mail parameters to Email Log so that a Resend action can be implemented"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/578-error-authentication-failed-ugfzc3dvcmq6?replies=4#post-7008516\">Ticket</a>] Removed sanitize_text_field from the PostmanSanitizer to prevent corruption of some passwords"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/fatal-error-after-the-latest-update?replies=9#post-6963805\">Ticket</a>] Removed the WordPress function call wp_slash - systems that don't support it can now use logging"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A lot of general code clean-up and memory optimizations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/call-to-undefined-function-spritnf?replies=2#post-6977557\">Ticket</a>] Fix for \"Fatal error: Call to undefined function spritnf() in PostmanEmailLogController.php on line 284\" - sometimes PHP really sucks compared to Java"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a link to a HowTo Video for configuring Google OAuth 2.0 in the OAuth2 authentication section "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "5,000 installations!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Looks for php_openssl and php_socket in the Pre-Requisites check"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/email-log-doesnt-show-up-after-upgrade?replies=2\">Ticket</a>] I hate when you have to have a fix for a fix. It means you need to hire more testers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/send-email-failed?replies=17#post-6954616\">Ticket</a>] Changed the way Postman performs the API Connectivity Test to more resemble how Google does it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/the-result-was-boolfalse-1?replies=1\">Ticket</a>] Found a host that the Connectivity Test gets confused on : send.one.com. STARTTLS detection was failing. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/fatal-error-after-the-latest-update?replies=9#post-6963805\">Ticket</a>] Some users insist on running Postman in WordPress &lt; 3.6 which has no wp_slash function. Logging is disabled in this case."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/fatal-error-after-the-latest-update?replies=2#post-6948880\">Ticket</a>] Found a PHP envrionment that choked in the catch block trying to call a function (get transcript) on an object instantiated in the try (mail engine). Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/a-valid-address-is-required-issue-with-contact-form-builder-plugin?replies=2\">Ticket</a>] If wp_mail is called with a recipient list that ends in a comma, Postman tries to add an empty address to the message. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The SMTP Session Transcript was not being saved for errors! Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/requesting-permission?replies=14\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/status-postman-is-not-sending-mail?replies=42\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/postman-is-not-handling-email-delivery?replies=4\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/google-request-isnt-acceptable?replies=10\">Ticket</a>][<a href=\"https://wordpress.org/support/topic/google-wont-grant-permission?replies=7\">Ticket</a>] Fixed a long-standing bug where Postman would ignore the Grant Code from an OAuth provider if it wasn't in the very next HttpRequest that the site received. Changed this to use a three-minute window."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/problem-using-wizard?replies=4\">Ticket</a>] Fixed a Javascript bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an Ajax failure handler to every Ajax post"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SMTP transport requires a Sender Email Address be set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wizard will not clear the hostname if it comes back null"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If the host does not support \"humanTime\", the Email Log will fall back to an ISO date"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new advanced option: Transcript size to adjust how much of the transcript is saved in the log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The wizard gets confused if the user specified auth type is undefined for the newly chosen socket. for example, a gmail address, with a mailtrap.io server, toggling between the gmailapi socket and the mailtrap socket. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Show a warning on the main setting screen if the Delivery mode is not set to Production"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "4,000 installations!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/plugins/postman-gmail-extension/\">Ticket</a>] Some of the changes released in v1.6 broke the Gmail Extension. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/x-mailer?replies=9\">Ticket</a>] Added a new advanced option: Stealth Mode to hide the Postman X-Mailer signature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Transcript option in the Email Log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed how the Wizard handles new GoDaddy Office-365 supported email"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You test and test and test, and there's always a bug. Fixed a problem in the Port Recommender where it thought STARTTLS was offered when it isn't (test case: test@aol.com)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fold all code from the Postman Gmail Extension back into Postman"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove warning from main screen for sender override if it's already on"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Delivery mode - production, logging, test"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Help screens"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Log all email attempts with error messages (if any)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Truncate logs to max amount"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "View all the email attempts, and view a single entry"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Delete single, delete batch, and delete the entire log on pugin data purge"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Highlight Logging option to users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Obscure password from front-end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ask to see password when typing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When the wizard is looking up details on the email address, disable the smtp hostname field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wizard check server ID and warn for MITM 'attack'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check for GoDaddy SMTP server during Wizard and use that SMTP server"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check for Gmail during wizard and remember for gmail api option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Present choices to user when select the auth type and socket in wizard more elegantly (radio buttons?)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Warn when using AUTH with NO encryption - done with padlock emoji"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add hostname to connectivity test table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove hard-coded plugin version number"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "3,000 installations!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix in Wizard: OAuth labels weren't updating dynamically (since v1.5.11)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of changes at Yahoo's Developer Network required changes here: updated format of Callback Domain; updated Yahoo Developer Network portal launch link; renamed Consumer Key/Secret to Client ID/Client Secret; updated FAQ for Yahoo Client ID instructions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/re-initializing-the-plugin?replies=5\">Ticket</a>] Updated stylesheet to avoid interference from Dating Solutions Plugin (DSP)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/help-mail-is-failing-in-test?replies=9\">Ticket</a>] PHP 5.2 users: fix test messages that show failures but still get delivered; fix Contact Form 7 submission freezes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translated into Turkish, thank-you ercan yaris"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2,000 installations! :D"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Commercial-grade improvements to Connectivity Test and Setup Wizard. The new wizard prevents misconfiguration by interrogating the MTA for capabilities and intelligently suggests the best settings for the user. Steve Jobs would be proud."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Wizard's MSA hostname guess for GoDaddy addresses (smtp.secureserver.net is the MTA not the MSA)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Wizard's MSA hostname guess for Outlook 365 addresses (smtp.live.com is for their free Hotmail service)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added French/Italian translation for JQuery Validation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for Fatal error: Cannot redeclare class PEAR_Common in C:\\PHP5\\PEAR\\PEAR\\Common.php - similar to <a href=\"https://wordpress.org/support/topic/plugin-wp-minify-cant-activate-plugin-fatal-error?replies=6\">this error</a> in WP Minify"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added JQuery tabbed UI for manual configuration screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added functionality to add to, cc, and bcc recipients to every message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added functionality to add custom headers to every message - useful for <a href=\"http://help.mandrill.com/entries/21688056-Using-SMTP-Headers-to-customize-your-messages\">Mandrill \"SMTP\" headers</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/invalid-redirect-uri?replies=7\">Ticket</a>] The Setup Wizard will check for IP addresses in the site URL and warn the user when they are about to configure OAuth 2.0 that this will fail."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/from-address-for-new-site-registration-email?replies=3\">Ticket</a>] Added functionality to prevent plugins and themes from overriding both the sender name and sender email address"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/problem-with-responding?replies=7#post-6723830\">Ticket</a>] Hide PHP warnings from <code>stream_set_timeout()</code> in case the host has disabled this function. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "1,000 installations! :D"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/openssl-error-after-upgrading?replies=2#post-6699480\">Ticket</a>] Postman will not shut down if it can't find OpenSSL. It will just display a warning to the user."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/conflict-when-used-in-conjunction-with-advanced-access-manager-by-vasyl-martyn?replies=9\">Ticket</a>] renamed Zend framework classes to prevent errors with other plugins using the Zend framework"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/test-email-hangs?replies=5\">Ticket</a>] Added ajax error checks, especially for Error 502 : Bad Gateway (from WPEngine.com) when sending test e-mail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multipart/Alternative was horribly broken, clearly no-one was using it. It's working now, and Postman's new Test Message is Multipart/Alternative. Thanks to Victor Hung of <a href=\"http://poofytoo.com\">poofytoo</a> for the use of his cartoon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add PHP library pre-requisite checks to Binder, Dashboard widget, Admin screen and Admin screen error messages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translated into Italian, thank-you Andrea Greco"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Obfuscated e-mail address in Diagnostic Info"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Wizard's SMTP hostname guess for Apple addresses (icloud.com, me.com, mac.com)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Dashboard Widget to display Postman status"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/sending-test-email-hangs?replies=9\">Ticket</a>] Added diagnostics check for iconv library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved the SMTP transcript to it's own step in the Send Email Test"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved 3rd-party plugin import to the Setup Wizard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/language-file-errors-in-debug-log?replies=3\">Ticket</a>|<a href=\"https://wordpress.org/support/topic/cant-activate-plugin-37?replies=6\">Ticket</a>] Stopped writing to error log if a language file can't be found"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the Http User Agent string to the diagnostics"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/status-postman-is-not-sending-mail?replies=42\">Ticket</a>] Added support for the <a href=\"http://codex.wordpress.org/Plugin_API/Filter_Reference/wp_mail\">wp_mail</a> filter - this adds compatibility with plugins like email-log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better diagnostics - includes a port check on the currently configured host:port"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where multiple error messages at once overwrite each other"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/incorrect-authentication-data-error-220?replies=9\">Ticket</a>] Fixed a bug in Sanitizer for cases where WordPress calls sanitize twice in a row - <a href=\"https://core.trac.wordpress.org/ticket/21989\">known WP bug</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a dedicated screen for Diagnostics (so that I can add more intensive, slower-running checks like DNS)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed port-testing race condition bug in Postman Setup Wizard when using Gmail API Extension"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for error \"Fatal error: Cannot redeclare class PostmanOAuthTokenInterface\" when using Gmail API Extension"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Checks to make sure that the hostname used for SMTP/OAuth 2.0 is one that is supported"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed display_errors=On, Mr. Space Cadet here left it in the previous release by accident"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugs slipped through. In the Wizard, choosing port 465 was not hiding the authentication label. Worse, choosing port 587 was not showing the authentication buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "In the wizard, if no ports are available for use, the error message was not being displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/oh-bother-connection-refused?replies=12\">Ticket</a>|<a href=\"https://wordpress.org/support/topic/impossible-to-send-mail?replies=6\">Ticket</a>] Added support for modular transports. The first external transport is the Postman Gmail Extension, which uses the Gmail API to send mail out on the HTTPS port, a convenient way around traditional TCP port blocks for Gmail users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/display-error-on-plugin-activation?replies=33\">Ticket</a>] Made my debug logging \"less agressive\" so that broken systems (those that pipe warning messages to STDOUT regardless of the WordPress WP_DEBUG_DISPLAY setting or PHP's display_errors settings) will no longer experience the Port Test hanging during a check"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug in the Setup Wizard where it would not use OAuth 2.0 on port 587"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where Postman refused to send mail with Password authentication and no encryption (who does that??)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All text has been <a href=\"http://plugins.svn.wordpress.org/postman-smtp/trunk/Postman/languages/postman-smtp.pot\">externalized</a> in prep for <a href=\"http://codex.wordpress.org/I18n_for_WordPress_Developers\">I18N Internationalization and localization</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where the Setup Wizard would force OAuth 2.0 configuration, instead of falling back to Password, even if the required port was closed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more error checking, and more warning messages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translated into French, thank-you Etienne Provost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Happy Valentine's Day! Sending Yahoo email now supported with OAuth 2.0 authentication! If the Wizard detects that a Yahoo server has been entered, it automatically configures OAuth 2.0 "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First time users may choose to import settings from any of the Big Four WordPress SMTP plugins (five if you count Easy SMTP Mail, a clone of WP Mail SMTP): Easy WP SMTP, WP Mail Bank, WP Mail SMTP and WP SMTP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/display-error-on-plugin-activation?replies=33\">Ticket</a>] Suppressed warning messages generated by calls to fsockopen - they were causing the remote Ajax queries to hang"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The wizard was resetting some settings by accident, namely Connection Timeout, Read Timeout and Reply-To"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/display-error-on-plugin-activation?replies=33\">Ticket</a>] Found an environment where calls to error_log were being displayed in the HTML even after display_errors was disabled. Therefore, disabled error_log calls by default. The log may be re-enabled in Advanced Settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Bad, Postman! screen was messing with the Port Test Ajax call when fsockopen generated an error and debug level is set to E_ALL in php.ini. Therefore added a switch in the configuration \"Show Error Screen\" that is off by default. When it is off, Port Test works perfect but errors generate a WSOD. When it is on, errors are displayed in the \"Bad, Postman!\" screen but Port Test fails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "I heard that some hosts, like WPEngine, do not allow writing to the Http Session. Well that's balls. I've modified the code to write to the database instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "500 downloads and six 5-star ratings in only three weeks! Cool! 8-)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced the Google OAuth API with pure PHP code. No more unexpected Google API errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/contact-7-and-activation-error?replies=16\">Ticket</a>] Enabled overriding of the timeouts in the configuration screen. If Postman is intermittently sending mail, doubling the TCP Read Timeout may help"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the SMTP session transcript output when a test message fails to send."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the error: Class 'Zend_Mail_Protocol_Smtp_Auth_Plain' not found in /Postman/Postman-Mail/Zend-1.12.10/Mail/Transport/Smtp.php on line 198"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Passwords in the database are now Base64-encoded so casual viewing of the database won't reveal them"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a couple minor database upgrade bugs: for new users who use Password Authentication, and for old users that don't have an expiry token stored"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a version shortcode, mostly for promotion of Postman on my own websites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Serveal minor tweaks to the user interface, including focus, style, validation, and enabling/disabling inputs where applicable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/contact-7-and-activation-error?replies=16\">Ticket</a>] Fixed the error: PHP Fatal error:  Call to private PostmanAuthorizationToken::__construct() This occurs when upgrading from a pre-v1.0 version of Postman (when PostmanAuthorizationToken had a public constructor) to v1.0 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/404-not-found-79?replies=17\">Ticket</a>] Fixed the error PHP Fatal error: Class 'Google_IO_Stream' not found in /Postman/Postman-Auth/google-api-php-client-1.1.2/src/Google/Client.php on line 600 by including Google/IO/Stream.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Postman now has a modest fatal error screen, rather than a dreaded white screen of death"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sending Hotmail/Windows Live/Outlook.com email now supported with OAuth 2.0 authentication! If Wizard detects that a Hotmail server has been entered, it automatically configures OAuth 2.0. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Separated Authentication input from Encryption input for finer configuration control"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional authentication types: plain and CRAM-MD5. 'basic' became 'login'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Ajax to manual config and wizard screens to allow dynamic OAuth2 redirect url + help text changes in response to hostname changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed 'Allow Plugin to Override Sender' user input"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Online Support link in menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clarified text in 'Run a Port Test' so people won't continue to ask me about connection problems (hopefully)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for Sender Name and Reply-To. Turns out Google no longer honours the MUA Return-Path header due to Spam. Makes sense, so I've decided not to add a Return-Path field to Postman's configuration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for WordPress filters <a href=\"http://codex.wordpress.org/Plugin_API/Filter_Reference/wp_mail_from\">wp_mail_from</a> and <a href=\"http://codex.wordpress.org/Plugin_API/Filter_Reference/wp_mail_from_name\">wp_mail_from_name</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disable stats-keeping for email sent by the test function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor tweaks to the Wizard to support WordPress v3.9"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/contact-form-7-not-sending-after-update-of-postman-smtp?replies=5\">Ticket</a> Fixed a bug I introduced in 1.1. Thanks to user derrey for catching this one. Zend_Mail crashes when attempting to throw an exception when the 'from' standard header was added as a header : \"Zend_Mail_Exception code=0 message=Cannot set standard header from addHeader()\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/charset-problem-6?replies=4\">Ticket</a>] Added support for international characters (the WordPress default is UTF-8) which can be specified with headers or the <a href=\"http://codex.wordpress.org/Plugin_API/Filter_Reference/wp_mail_charset\">wp_mail_charset</a> filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for multi-part content type which can be specified with headers or the <a href=\"http://codex.wordpress.org/Plugin_API/Filter_Reference/wp_mail_content_type\">wp_mail_content_type</a> filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Overhaul of the UI - A navigation pane is shown at the top of each page and each major function has been separated into its own screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Postman now supports sending with basic auth and no auth just like the other SMTP plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Port Test function so users can have peace of mind whether the plugin is failing (never!) or whether the host has firewalled them "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/emails-not-sending-in-html-format?replies=5\">Ticket</a>] Now supports email headers, such as a text/html content-type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now supports email attachments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a warning if the user has configured OAuth but not requested permission from Google"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a warning if the user is using Google with Basic auth (or worse) and a suggestion to enable OAuth 2.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Recording of successful/failure tally"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error: \"Undefined variable: authorizationToken\" was preventing mail delivery outside of the admin screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed warning message that Postman couldn't bind to wp_mail immediately after Activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added prerequisite checks to make sure the PHP environment can handle Postman"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved the screenshots and icons out of /trunk and into /assets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/parse-error-syntax-error-unexpected-t_string-63?replies=24\">Ticket</a>] Fixed \"Configure and Authorize the plugin\" missing the link address. Thanks to user kaorw for catching ths one."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/parse-error-syntax-error-unexpected-t_string-63?replies=24\">Ticket</a>] Fixed \"Warning: Missing argument 2 for update_option()\". Thanks to user kaorw for catching ths one. Fixed by calling delete_option instead of update_option()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/call-to-undefined-function-str_getcsv?replies=12\">Ticket</a>] Fixed \"Fatal error: Call to undefined function str_getcsv()\". Thanks to user micb for catching ths one. This function is not available before PHP 5.3. Fixed by replacing str_getdsv() with custom implementation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[<a href=\"https://wordpress.org/support/topic/parse-error-syntax-error-unexpected-t_string-63?replies=24\">Ticket</a>] Removed the namespace for users with older version of PHP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the Postman Redirect URI (now includes a trailing ?page=postman) - this means Client ID's from 0.2.4 or earlier MUST be updated with the new Redirect URI or re-created from scratch."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues on servers where the plugin is installed as a symbolic link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better error handling/debugging with php logging and assertions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an environment-specific error that prevented Postman reloading the setting screen after sending a test email"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "wp_mail() accepts multiple recipients (array and string)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "display a warning to the user if another plugin is preventing Postman from overriding wp_mail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "paired down the external libraries to only what was required - from 3,700 files to just 75"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "default Gmail port corrected to 465 - previously 465 was hardcoded but 587 was saved to the database"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'Delete All Data' button to erase the stored tokens"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "OpenShift production problem: This environment didn't like the callback and there were possibly invalid characters in the source script"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release. Happy Fig Newton Day! It was a grueling week-end, studying PHP and OAuth and Googling like a Boss, but it's done and it works!"
+msgstr ""
+
+#. Found in faq header.
+msgid "What is OAuth 2.0?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does OAuth 2.0 work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can't I just tell Google to allow less secure apps and keep using my old password?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What is a Client ID?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get a Google Client ID? (For Gmail users only!)"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get a Microsoft Client ID? (For Hotmail/Live/Outlook.com users only!)"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get a Yahoo Client ID? (For Yahoo Mail users only!)"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I revoke Postman's OAuth 2.0 access?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Who do we thank for translations?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Postman will never ask for your password, so your password can't be stolen"
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you change your password regularly, you will never have to update Postman's configuration"
+msgstr ""
+
+#. Found in faq list item.
+msgid "You have tighter control over the data Postman has access to. For Google users it can never access your Calendar or Docs or YouTube; for Yahoo users it can never access your Flickr"
+msgstr ""
+
+#. Found in faq list item.
+msgid "If your WordPress site gets hacked, you can revoke Postman's email access without impacting any other application or website that has access to your account"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <a href=\"https://www.google.com/accounts/Logout?continue=https://console.developers.google.com/start/api?id=gmail\">Google Developer's Console</a> and login with the same email address that you are configuring Postman with."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Choose 'Create a New Project'. This project will be for Postman SMTP only."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Select 'Consent Screen' from under 'APIs &amp; auth'. Into 'Email address' choose the correct Gmail address and in 'Product name' put 'Postman SMTP'. Choose 'Save'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Select 'Credentials' from under 'APIs &amp; auth'. Choose 'Create a new Client ID'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "For the 'Application Type' use 'Web application'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In 'Authorized Javascript origins' enter the 'Javascript Origins' given by Postman (either from the wizard<a href=\"http://plugins.svn.wordpress.org/postman-smtp/assets/examples/Screen_Shot_2015-03-06_at_2_34_22_PM.png\">[screenshot]</a>, or from the manual configuration page<a href=\"http://plugins.svn.wordpress.org/postman-smtp/assets/examples/Screen_Shot_2015-03-06_at_2_44_48_PM.png\">[screenshot]</a>)."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In 'Authorized Redirect URIs' enter the 'Redirect URI' given by Postman (either from the wizard<a href=\"http://plugins.svn.wordpress.org/postman-smtp/assets/examples/Screen_Shot_2015-03-06_at_2_34_22_PM.png\">[screenshot]</a>, or from the manual configuration page<a href=\"http://plugins.svn.wordpress.org/postman-smtp/assets/examples/Screen_Shot_2015-03-06_at_2_44_48_PM.png\">[screenshot]</a>)."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Choose 'Create Client ID'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Enter the Client ID and Client Secret displayed here into Postman's settings page <a href=\"https://ps.w.org/postman-smtp/assets/screenshot-7.png?rev=1108485\">screenshot</a>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <a href=\"https://account.live.com/developers/applications/index\">Microsoft account Developer Center</a> and select 'Create application'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In the 'Application name' field enter 'Postman SMTP'. Select 'I accept.'"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Select 'API Settings' from under 'Settings'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In 'Redirect URL', enter the redirect URI given by Postman (either from the wizard, or from the manual configuration page). Select Save."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Select 'App Settings' from under 'Settings'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Enter the Client ID and Client Secret displayed here into Postman's settings page."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <a href=\"https://developer.yahoo.com/apps/\">Yahoo Developer Network</a> and select 'Create an App'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In the 'Application Name' field enter 'Postman SMTP'. For 'Application Type' choose 'Web Application'."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In 'Home Page URL', enter the 'Home Page URL' given by Postman."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In 'Callback Domain', enter the 'Callback Domain' given by Postman."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Under 'API Permissions' choose 'Mail'. Under 'Mail' choose 'Read/Write'"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Click 'Create App'"
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you have a Google Account, from the <a href=\"https://www.google.com/accounts/Logout?continue=https://console.developers.google.com\">Google Developer's Console</a> use the Delete button under the Client ID."
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you have a Microsoft Live account, from the <a href=\"https://account.live.com/developers/applications/index\">Microsoft account Developer Center</a>, select the Application and choose Delete Application."
+msgstr ""
+
+#. Found in faq list item.
+msgid "If you have a Yahoo Account, from the <a href=\"https://developer.yahoo.com/apps/\">Yahoo Developer Network My Apps</a>, select the Application and choose Delete App. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "French - <a href=\"https://www.facebook.com/eprovost3\">Etienne Provost</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Italian - Andrea Greco"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Turkish - <a href=\"http://lunar.com.tr/\">ercan yaris</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Dutch - Louise"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Greek - <a href=\"https://plus.google.com/+MichaelKotsarinis/about\">Michael Kotsarinis</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A modern replacement for traditional password-based authentication. Postman supports the OAuth 2.0 implementations of all three major e-mail providers: Gmail, Hotmail and Yahoo Mail."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Postman requests a limited access OAuth 2.0 token (valet key) to access the APIs (enter the house) and perform a specific service (handle Gmail, stay out of Google Docs) with no need for you to surrender your username and password credentials (master house key)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Once access is granted, Postman commandeers the WordPress wp_mail() function to provide an incredibly stable mail sub-system."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Google does have a setting to <a href=\"https://support.google.com/accounts/answer/6010255\">allow less secure apps</a> but this option is <a href=\"http://plugins.svn.wordpress.org/postman-smtp/assets/Screen%20Shot%202015-02-21%20at%208.52.13%20PM.png\">not available</a> if you're using <em>Google Apps</em> to manage a domain."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are many reasons why OAuth 2.0 is better than any password-based mechanism:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong><a href=\"http://blog.varonis.com/giving-away-your-passwords/\">NEVER give out your Gmail, Microsoft or Yahoo password</a></strong> to a 3rd-party or 3rd-party program that you don't fully trust."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To use OAuth, your website needs it's own Client ID. The Client ID is used to control authentication and authorization and is tied to the specific URL of your website. If you manage several websites, you will need a different Client ID for each one."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "https://vimeo.com/128589255"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Grant OAuth permission error messages"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Error authenticating with this Client ID. [Error executing wp_remote_post: The user has blocked requests via HTTP.]"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Error authenticating with this Client ID. [Error executing wp_remote_post: Failed to connect to xxxx]"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Error: redirect_uri_mismatch"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Error: invalid_client ... no support email"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "SMTP Error Messages"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Communication Error [334] – make sure the Envelope From Email is the same account used to create the Client ID."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Could not open socket"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Operation Timed out"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Connection refused"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "503 Bad sequence of commands"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "XOAUTH2 authentication mechanism not supported"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Mail ends up in the Spam folder"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "You did not enter the Redirect URI correctly, watch the <a href=\"https://vimeo.com/128589255\">instructional video</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "You used an IP address instead of a domain name (not allowed)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "This is almost always caused by being logged in to Google/Microsoft/Yahoo with a different user than the one Postman is configured to send mail with. Logout and try again with the correct user"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Login to <a href=\"http://www.gmail.com\">Webmail</a> and see if there is an \"Unusual Activity\" warning waiting for your attention"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Your host may have installed a firewall between you and the server. Ask them to open the ports."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Your may have tried to (incorrectly) use SSL over port 587. Check your encryption and port settings."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Your host may have poor connectivity to the mail server. Try doubling the Read Timeout."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Your host may have installed a firewall (DROP packets) between you and the server. Ask them to open the ports."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Your may have tried to (incorrectly) use TLS over port 465. Check your encryption and port settings."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Ensure you are using the correct SMTP server with authentication - the correct SMTP server is the one defined by your email service's SPF record"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "If you use a custom domain name for email, add an <a href=\"http://www.openspf.org/Introduction\">SPF record</a> to your DNS zone file. The SPF is specific to your email provider, for example <a href=\"https://support.google.com/a/answer/33786\">Google</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "If you use a custom domain name for email, add a DKIM record to your DNS zone file and upload your Domain Key (a digital signature) to, for example <a href=\"//support.google.com/a/answer/174124?hl=en)\">Google</a>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Please note that the Client ID and Client Secret fields are NOT for your username and password. They are for OAuth Credentials only."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Your WordPress site is configured with WP_HTTP_BLOCK_EXTERNAL to prevent outbound connections. Add a whitelist rule to wp-config.php:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "define('WP_ACCESSIBLE_HOSTS', 'www.googleapis.com, login.live.com, api.login.yahoo.com');"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "There is a firewall on port 443 between you and the OAuth2 server. Open up the port for outbound connections."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You've <a href=\"https://wordpress.org/support/topic/status-postman-is-not-sending-mail-1?replies=7\">forgotten to choose an email address in the consent screen</a>."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Your host has likely installed a firewall (REJECT packets) between you and the server. Ask them to open the ports."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You configured TLS security when you should have selected no security."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You may be on a Virtual Private Server that is <a href=\"https://wordpress.org/support/topic/oh-bother-xoauth2-authentication-mechanism-not-supported?replies=9\">playing havoc with your communications</a>. Jump ship."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To avoid being flagged as spam, you need to prove your email isn't forged. On a custom domain, its up to YOU to set that up:"
+msgstr ""
